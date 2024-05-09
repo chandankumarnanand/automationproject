@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 13 12:46:09 IST 2024
+ci-environment-9.0.4.jar>central=
+ci-environment-9.0.4-sources.jar>central=
+ci-environment-9.0.4.pom>central=

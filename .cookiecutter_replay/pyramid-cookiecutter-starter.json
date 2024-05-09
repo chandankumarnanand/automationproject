@@ -1,0 +1,29 @@
+{
+  "cookiecutter": {
+    "project_name": "pyramidProject",
+    "repo_name": "pyramidProject",
+    "template_language": "jinja2",
+    "backend": "none",
+    "_copy_without_render": [
+      "static/*"
+    ],
+    "_template": "gh:Pylons/pyramid-cookiecutter-starter",
+    "_output_dir": "C:\\Users\\USER\\AppData\\Local\\Temp\\207af0ed-38ba-4b76-9cd7-db84cb0e24b7",
+    "_repo_dir": "C:\\Users\\USER\\.cookiecutters\\pyramid-cookiecutter-starter",
+    "_checkout": null
+  },
+  "_cookiecutter": {
+    "project_name": "pyramidProject",
+    "repo_name": "pyramidProject",
+    "template_language": [
+      "jinja2",
+      "chameleon",
+      "mako"
+    ],
+    "backend": [
+      "none",
+      "sqlalchemy",
+      "zodb"
+    ]
+  }
+}
